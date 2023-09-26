@@ -1,0 +1,135 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "mehdi",
+      "family": "abbasi",
+      "studentid": 12345,
+      "fieldstudy": "software-eng",
+      "units": []
+    },
+    {
+      "id": 2,
+      "name": "ali",
+      "family": "yousefi",
+      "studentid": 12344,
+      "fieldstudy": "civil-eng",
+      "units": []
+    },
+    {
+      "id": 3,
+      "name": "komeil",
+      "family": "qasemi",
+      "studentid": 12343,
+      "fieldstudy": "mecanical-eng",
+      "units": []
+    },
+    {
+      "id": 4,
+      "name": "hamid",
+      "family": "fallahi",
+      "studentid": 12342,
+      "fieldstudy": "software-eng",
+      "units": []
+    },
+    {
+      "id": 5,
+      "name": "mehdi",
+      "family": "fallahi",
+      "studentid": 12341,
+      "fieldstudy": "civil-eng",
+      "units": []
+    },
+    {
+      "name": "",
+      "id": 6
+    },
+    {
+      "name": "ali",
+      "id": 7
+    },
+    {
+      "name": "alio",
+      "id": 8
+    },
+    {
+      "name": {
+        "name": "qwerty",
+        "family": "ytrewq",
+        "studentid": "12345",
+        "fieldstudy": "asdfg",
+        "units": "gfdsa"
+      },
+      "id": 9
+    }
+  ],
+  "teachers": [
+    {
+      "id": 11,
+      "name": "ali",
+      "family": "qorbani",
+      "empid": "123451",
+      "units": []
+    },
+    {
+      "id": 12,
+      "name": "mohammad",
+      "family": "ayoubi",
+      "empid": "123452",
+      "units": []
+    },
+    {
+      "id": 13,
+      "name": "reza",
+      "family": "shiri",
+      "empid": "123453",
+      "units": []
+    },
+    {
+      "id": 14,
+      "name": "ali",
+      "family": "rezaee",
+      "empid": "123454",
+      "units": []
+    },
+    {
+      "id": 15,
+      "name": "abbas",
+      "family": "hassani",
+      "empid": "123455",
+      "units": []
+    }
+  ],
+  "units": [
+    {
+      "id": 111,
+      "name": "chemistry",
+      "unit": 2,
+      "teachers": []
+    },
+    {
+      "id": 112,
+      "name": "history",
+      "unit": 3,
+      "teachers": []
+    },
+    {
+      "id": 113,
+      "name": "statics",
+      "unit": 2,
+      "teachers": []
+    },
+    {
+      "id": 114,
+      "name": "math",
+      "unit": 1,
+      "teachers": []
+    },
+    {
+      "id": 115,
+      "name": "phisics",
+      "unit": 3,
+      "teachers": []
+    }
+  ]
+}
